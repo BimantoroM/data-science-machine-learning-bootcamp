@@ -23,6 +23,13 @@ My background in design and storytelling helps me communicate data insights in a
 - NumPy
 - SQL
 
+### Statistics & Data Analysis
+
+- Descriptive Statistics
+- Hypothesis Testing
+- Exploratory Data Analysis
+- Correlation Analysis
+
 ### Data Visualization
 
 - Matplotlib
@@ -31,10 +38,12 @@ My background in design and storytelling helps me communicate data insights in a
 ### Machine Learning
 
 - Scikit-learn
-- Data Cleaning
-- Exploratory Data Analysis
-- Feature Engineering
-- Machine Learning Fundamentals
+- Linear Regression
+- Ridge Regression
+- Lasso Regression
+- Regularization
+- Feature Selection
+- Model Evaluation
 
 ### Tools
 
@@ -60,6 +69,7 @@ My background in design and storytelling helps me communicate data insights in a
 | 07 | Advanced Python Techniques | Advanced Python programming concepts |
 | 08 | Advanced Exploratory Data Analysis | Advanced EDA techniques |
 | 09 | Advanced SQL Queries | SQL queries and database analysis |
+| 10 | Regularized Regression in Python | Building Ridge and Lasso Regression models using the Boston Housing Dataset |
 
 ---
 
@@ -78,6 +88,20 @@ Topics covered include:
 - Exploratory Data Analysis
 - SQL
 - Machine Learning
+- Ridge Regression
+- Lasso Regression
+
+### 📈 Evaluation Metrics
+
+Models are evaluated using:
+
+- MAE
+- MAPE
+- RMSE
+
+### 🛠️ Tools Used
+
+Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
 
 More assignments and projects will be added as I continue the bootcamp.
 
@@ -97,5 +121,6 @@ data-science-bootcamp/
 ├── Assignment-07-Advanced-Techniques-in-Python/
 ├── Assignment-08-Advanced-Exploratory-Data-Analysis/
 ├── Assignment-09-Advanced-SQL-Queries/
+├── Assignment-10-Regularized-Regression/
 │
 └── README.md
