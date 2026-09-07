@@ -167,7 +167,7 @@ Transforms features so they have:
 
 Scales numerical features to a range between **0 and 1** while preserving the relative relationship between values.
 
-###💡 Key Takeaway
+##💡 Key Takeaway
 
 One of the most important lessons from this assignment is that data preparation should be treated as a critical step before analysis or machine learning.
 
