@@ -89,6 +89,9 @@ The main research question is:
 - **H0:** There is no significant difference in average Total Spending between the two groups.
 - **H1:** There is a significant difference in average Total Spending between the two groups.
 
+#### MinMaxScaler
+
+Scales numerical features to a range between **0 and 1** while preserving the relative relationship between values.
 
 ## 💡 Key Takeaway
 
